@@ -54,8 +54,8 @@
 ---
 ## 📥 Скачать и установка
 
-1.  Скачайте последнюю версию программы: **[LoginAsterios.exe](https://github.com/saintmedium/LoginAsterios/raw/refs/heads/main/LoginAsterios.rar)**
-2.  Запустите скачанный файл. Программа не требует дополнительной установки.
+1.  Скачайте последнюю версию программы: **[LoginAsterios.rar](https://github.com/saintmedium/LoginAsterios/raw/refs/heads/main/LoginAsterios.rar)**
+2.  Распакуйте программу в любую папку
 
 ---
 
